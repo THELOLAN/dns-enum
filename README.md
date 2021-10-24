@@ -22,5 +22,5 @@ $ ./dns-enum
 $ ./live-dom.sh
 ```
 
-#Author
+# Author
 ! {THE}__LOLAN </>#0007
